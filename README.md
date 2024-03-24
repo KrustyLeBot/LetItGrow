@@ -1,3 +1,12 @@
+Mobile game created during the 2023 global game jame. This README is used as the google play required privacy policy.
+
+Links:  
+https://v3.globalgamejam.org/2023/games/let-it-grow-4
+https://play.google.com/store/apps/details?id=com.DefaultCompany.com.unity.letitgrow&hl=ln&gl=US
+&nbsp;
+
+&nbsp;
+
 **Privacy Policy**
 
 KrustyLeBot built the Let It Grow app as a Free app. This SERVICE is provided by KrustyLeBot at no cost and is intended for use as is.
